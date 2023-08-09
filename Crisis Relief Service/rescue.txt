@@ -1,0 +1,6 @@
+CRS Centre@BWI
+5.5 Ricther Scale,Earthquake,2019-01-01,Rogojampi,10,Success
+6.0 Ricther Scale,Earthquake,2020-12-13,Srono,25,Success
+Heavy Rain,Flood,2020-01-02,Blimbingsari,20,Success
+Hurricane strike,Flood,2018-03-11,Krajan,10,Pending
+Hottest Season,WildFire,2021-01-14,Baluran,15,Failure
